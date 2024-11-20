@@ -1,0 +1,22 @@
+// Compost colors for paganbless. You may add your own colors, change existing ones, or remove colors that aren't needed.
+athame, #75b29a
+belladonna, #aab28a
+black_thorn_sapling, #aca7a1
+black_thorn_staff, #758a84
+chalice, #ffff94
+cinnabar, #de5f51
+eternal_snowball, #feffff
+glazed_berries, #e06b66
+hag_taper, #c2c95b
+herb_pouch, #946f55
+lavender, #a8bbc3
+mandrake_root, #d2c3a0
+mugwort, #398930
+pagan_guide, #726f55
+pentacle, #50201c
+rue, #b2e189
+rue_plant, #b4e486
+runic_charge, #c3cacd
+wand, #8d8c3e
+wican_ward, #aca773
+winter_berries, #7a4a40

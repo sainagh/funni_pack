@@ -1,0 +1,136 @@
+ae2 crafting tree: ae2 qol
+ae2 network analyzer: ae2 qol
+ae2 things: ae2 qol
+alexcaves: for possible custom cave world and/or cave generation in other dimensions, mobs can be used as custom bosses as well
+alexmobs: for custom bosses and animals to populate home world
+ancient curses: RPG mod, gives weapon upgrades, used as progression in custom dimensions 
+apothic attributes: library for gateways, adds some player stats
+applied energistics: base logistics
+aquamirae: RPG mod, can be used for ocean dimension, mobs can be used as custom bosses as well
+architectury: building blocks for custom structures
+ars creo: starbuncle wheel to make create stress for flying machine quarry
+ars elemental: cool spells
+ars noveau: progression magic mod, spells and customizable crafting mechanics
+ars ocultas: cool spells
+bigger ae2: ae2 qol
+biomancy: progression magic mod, customizable crafting mechanics
+biomes o plenty: biomes for custom dimensions
+blood magic: progression magic mod
+blue skies: dimension is kinda overused, could be a cool idea to use the mod's biomes and mobs to make a custom dimension that's the same but different
+botania: progression magic mod, and customizable crafting mechanics
+CB multiparts: for projectred
+citadel: library
+cloth config: library for jei live config
+code chicken lib: library
+configured: live config for mods
+controlling: keybind management
+corgilib: library
+create: for flying machine quarry, part of me wants to disable the crafting mechanics from the mod as progression around them is often overused
+cull leaves: performance mod
+curios: for curio slots
+custom portal API: datapack for custom portals for custom dimensions
+cyclops core: library
+dank storage: storage quality of life, especially for various stone types
+dimensional doors: some RPG stuff, simple teleportation for early game maybe
+dawn of time: blocks for custom structures
+embeddium: performance
+embers rekindled: progression magic mod, customizable crafting mechanics
+enderIO: useful for logistics and farming, maybe disable one block machines depending on overlap with GT
+ender storage: for wireless transfer
+entity culling: performance
+evilcraft: progression magic mod, and customizable crafting mechanics
+ex deorum: sieving crafting mechanic for early game
+ex machinis deorum: automatable sieving, possibly available right away to avoid manual stuff
+ferrite core: library
+flib: library
+forbidden and arcanus: progression magic mod, and customizable crafting mechanics
+ftb chunks: chunkloading
+ftb library: library
+ftb teams: teams functionality
+fusion: connected textures
+gateways to eternity: RPG mod, can be used for custom villager invasions
+gateways to eternity addon: adds compatibility with other RPG mods
+geckolib: library
+glodium: library
+gregtech ceu: main tech progression, making custom materials, making multiblocks
+hexerei: cool magic system, unsure if it can be used as progression tool
+huge structure blocks: increase size for custom structures
+ice and fire: use mobs for custom dimensions
+immediately fast: performance
+incontrol: to tweak mob stats (buggy, probably better to do it with kubejs) and spawns in custom dimensions
+JEI: EMI not in yet because of some bugs I have yet to resolve
+journey into the light: RPG mod, lots of dimensions and mobs
+just enough resources: JEI addon for ores y levels, villagers, and mob drops
+kubejs: customization, likely will need more addons than we currently have
+kubejs botania: for botania
+kubejs nature aura: for nature aura
+kubejs additions: custom JEI tabs
+kubejs ars noveau: for ars noveau
+kubejs projecte: custom EMC, probably for select materials and decorative blocks
+l enders cataclysm: RPG mod, mobs can be used for custom bosses
+laserIO: logistics
+ld lib: library
+libX: library
+lionfish API: library
+lodestone:library
+lootjs: customizable loot
+M ae2: ae2 qol
+mahou tsukai: progression magic mod, cool weapons
+malum: progression magic mod, and customizable crafting mechanics
+mjcity lib: library mod
+midnight lib: library
+modern fix: performance
+modonomicon: magic books
+modular routers: logistics
+mouse tweaks: mouse tweaks
+multiblocked: custom multiblocks
+mythic botany: more botania stuff
+nature's aura: progression magic mod, and customizable crafting mechanics
+nature's compass: qol, also useful if we want biome requirements for items/rituals
+noisium: performance
+obscure api: library
+occultism: progression magic mod, and customizable crafting mechanics
+occultism kubejs: occultism customization
+oh the biomes you've gone: biomes for custom dimensions
+oh the trees you'll grow: library
+ore tree: resource generation, should be customizable but I still have to look into it
+pagan blessing: progression magic mod, and customizable crafting mechanics
+patchuoli: magic books
+placebo: library
+ponderjs: customizable create ponder, good for in-game documentation
+productive bees: resource generation, customizable
+projecte: decorative blocks, maybe limited resource generation
+projectred core: library
+projectred illumination: I like the cool lights, not strictly necessary
+projectred integration: redstone logistics
+projectred transmission: redstone logistics
+radium: performance
+raided: customizable villager raids
+rats: early game logistics
+realmrpg fallen adventurers: small loot and traps mod, not strictly necessary
+rechiseled: decorative blocks for custom structures
+reliquary: qol gadgets
+resource chickens: resource generation, should be customizable but I still need to check
+retro damage indicators: damage indicator gui
+rftools base: library
+rhino: library
+roots: progression magic mod, and customizable crafting mechanics
+searchables: library
+smart brain lib: library
+structure gel: creative structure building tool, library
+supermartinj642 config: library
+supermartinj624 core: library
+terra blender: terrain gen
+terralith: terrain gen
+the afterdark: dimension mod
+the undergarden: dimension mod
+the one probe: for seeing blocks
+theurgy: progression magic mod, and customizable crafting mechanics
+tombstone: for tombstone functionality and useful magic tools
+totemic: progression magic mod, and customizable crafting mechanics, I don't love it and it can be removed
+twigs: decorative blocks for custom structures
+twilight forest: same as blue skies, can make a custom dimension with mobs, biomes, bosses, same but different
+valhesia core: library
+xaeros minimap: minimap
+xaeros world map: map gui
+xnet: logistics
