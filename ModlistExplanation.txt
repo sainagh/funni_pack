@@ -6,6 +6,7 @@ alexmobs: for custom bosses and animals to populate home world
 ancient curses: RPG mod, gives weapon upgrades, used as progression in custom dimensions 
 apothic attributes: library for gateways, adds some player stats
 applied energistics: base logistics
+appleskin: food bar qol
 aquamirae: RPG mod, can be used for ocean dimension, mobs can be used as custom bosses as well
 architectury: building blocks for custom structures
 ars creo: starbuncle wheel to make create stress for flying machine quarry
@@ -21,11 +22,13 @@ botania: progression magic mod, and customizable crafting mechanics
 CB multiparts: for projectred
 citadel: library
 cloth config: library for jei live config
+clumps: performance
 code chicken lib: library
 configured: live config for mods
 controlling: keybind management
 corgilib: library
 create: for flying machine quarry, part of me wants to disable the crafting mechanics from the mod as progression around them is often overused
+create chunkloader: for chunkloading flying machine
 cull leaves: performance mod
 curios: for curio slots
 custom portal API: datapack for custom portals for custom dimensions
@@ -88,6 +91,7 @@ mythic botany: more botania stuff
 nature's aura: progression magic mod, and customizable crafting mechanics
 nature's compass: qol, also useful if we want biome requirements for items/rituals
 noisium: performance
+oculus: performance
 obscure api: library
 occultism: progression magic mod, and customizable crafting mechanics
 occultism kubejs: occultism customization
