@@ -113,7 +113,7 @@ raided: customizable villager raids
 rats: early game logistics
 realmrpg fallen adventurers: small loot and traps mod, not strictly necessary
 rechiseled: decorative blocks for custom structures
-reliquary: qol gadgets
+reliquary: magic gadgets, qol gadgets
 resource chickens: resource generation, should be customizable but I still need to check
 retro damage indicators: damage indicator gui
 rftools base: library
