@@ -1,0 +1,80 @@
+global.dragonData = [
+    {
+        name: 'red',
+        type: 'fire',
+        tier: 1,
+        color: 0xe3433b,
+        habitat: 'underground',
+        food: ['iceandfire:dragon_meal'],
+        passive: ['scale'],
+        slayer: ['core'],
+        parents: [],
+        standardDrops: true,
+        useBreath: true
+    },  
+    {
+        name: 'blue',
+        type: 'ice',
+        tier: 1,
+        color: 0x99c2e8,
+        habitat: 'icy',
+        food: ['iceandfire:dragon_meal'],
+        passive: ['scale'],
+        slayer: ['core'],
+        parents: [],
+        standardDrops: true,
+        useBreath: true
+    },    
+    {
+        name: 'iron',
+        type: 'fire',
+        tier: 1,
+        color: 0xba9d80,
+        habitat: 'underground',
+        food: ['iceandfire:dragon_meal'],
+        passive: ['scale'],
+        slayer: ['core'],
+        parents: ['red', 'yellow'],
+        standardDrops: true,
+        useBreath: true
+    },
+    {
+        name: 'sky',
+        type: 'lightning',
+        tier: 1,
+        color: 0x8aebe6,
+        habitat: 'sky',
+        food: ['iceandfire:dragon_meal'],
+        passive: ['scale'],
+        slayer: ['core'],
+        parents: ['lightning', 'blue'],
+        standardDrops: true,
+        useBreath: true
+    },
+    {
+        name: 'ruby',
+        type: 'fire',
+        tier: 2,
+        color: 0x630101,
+        habitat: 'underground',
+        food: ['iceandfire:dragon_meal'],
+        passive: ['scale'],
+        slayer: ['core'],
+        parents: ['red', 'gemstone'],
+        standardDrops: true,
+        useBreath: true
+    },
+    {
+        name: 'chaos',
+        type: 'dark',
+        tier: 9999,
+        color: 0x690aad,
+        habitat: 'the hekkin abysss',
+        food: ['iceandfire:dragon_meal'],
+        passive: ['scale'],
+        slayer: ['core'],
+        parents: ['lightning', 'blue'],
+        standardDrops: true,
+        useBreath: true
+    }
+]
